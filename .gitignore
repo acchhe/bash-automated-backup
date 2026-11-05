@@ -1,0 +1,15 @@
+# Generated archives and local test data
+*.tar.gz
+*.tgz
+/backups/
+/source/
+/testdata/
+/test-data/
+
+# Course submission files and local draft
+/backup-file-check
+/backup-permissions
+/backup-script-copy
+/backup_old.sh
+/crontab-schedule
+/submission/
